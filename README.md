@@ -1,4 +1,4 @@
-# Pokemon Hardcore Nuzlocke save editing tool
+# Pokemon save editing tool
 
 ## Motivations
 
@@ -13,14 +13,9 @@ Also, for rom hack such as Inclement Emerald, there is no cheat codes available,
 the items are wrong(items are added to the rom hack hence the item IDs are different than vanilla 
 emerald).
 
-Note: This repository is only a testing playground for now
+This project aims at providing a scriptable way to edit pokemon saves. This could also serve as a 
+save patcher, used when a romhack update would break the past save for example.
 
 ## Planned features
 
-- Item giving
-  - Rare Candies
-  - Balls
-  - EV Items
-  - Berries
-- Money giving
-- Pokemon happiness raise
+- Scriptable save edition with lua scripts.
